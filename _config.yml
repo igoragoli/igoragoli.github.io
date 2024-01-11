@@ -21,8 +21,8 @@
 title: Augusto de Oliveira
 email: igoragoli@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
-baseurl: "/about/" # the subpath of your site, e.g. /blog
-url: https://igoragoli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://igoragoli.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  igoragoli
 
@@ -30,6 +30,10 @@ github_username:  igoragoli
 theme: minima
 plugins:
   - jekyll-feed
+
+markdown: Kramdown
+kramdown:
+  input: Kramdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
