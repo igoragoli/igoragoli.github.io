@@ -15,6 +15,6 @@ At CentraleSupélec I was pursuing a MsCEng on mathematics and data science with
 
 My passion for math, statistics, machine learning and computer science was fostered at the University of São Paulo, where I authored an undergraduate research project on deep learning with complex numbers and worked on a SWE internship at BTG Pactual. Notably, I ranked 2nd out of 249 electrical engineering students, 1st out out of 56 in my specialization and was awarded the Eiffel Excellence Scholarship to cover all my expenses while studying in France.
 
-Beyond technology and engineering, I have passions in climbing, lifting, and making music.
+Beyond engineering, I am passionate about climbing, lifting, calisthenics, fixed-gear cycling, music production, writing, and TTRPGs. Happy to chat about any of these to break the ice :)
 
 You can reach me at [igoragoli@gmail.com](mailto:igoragoli+blog@gmail.com).
